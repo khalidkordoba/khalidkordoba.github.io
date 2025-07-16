@@ -1,10 +1,5 @@
-title: Situs Saya
+title: Blog Saya
 description: Blog pribadi
 baseurl: ""
 url: "https://khalidkordoba.github.io"
 permalink: /article/:title/
-
-plugins:
-  - jekyll-feed
-
-theme: minima
