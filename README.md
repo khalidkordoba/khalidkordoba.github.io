@@ -1,1 +1,0 @@
-# khalidkordoba.github.io
