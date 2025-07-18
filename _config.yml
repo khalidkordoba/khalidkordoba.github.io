@@ -1,5 +1,12 @@
-title: Blog Saya
-description: Blog pribadi
-baseurl: ""
+title: Robo.Trico
+baseurl: "" 
 url: "https://khalidkordoba.github.io"
 permalink: /article/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "artikel"
+      comments: true
