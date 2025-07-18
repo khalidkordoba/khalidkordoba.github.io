@@ -4,5 +4,5 @@
   permalink: "/article/membuat-mini-cms/"
   banner: "default-banner.jpg"
   description: ""
-  ---
+---
 <p>halo guys<br>cukup sudah..<br>terimakasih</p>
