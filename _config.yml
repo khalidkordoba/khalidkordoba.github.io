@@ -1,6 +1,6 @@
-title: Robo.Trico
-baseurl: "" 
+title: "Robo.Trico"
 url: "https://khalidkordoba.github.io"
+baseurl: ""
 permalink: /article/:title/
 
 defaults:
@@ -9,4 +9,6 @@ defaults:
       type: "posts"
     values:
       layout: "artikel"
-      comments: true
+
+plugins:
+  - jekyll-seo-tag
